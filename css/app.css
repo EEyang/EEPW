@@ -1,0 +1,27 @@
+.marketing{
+	text-align: center;
+}
+.featurette{
+	background-color: #777;
+}
+.carousel{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 100px;
+	background-image: url("../img/bgg.JPG");
+	background-position: center center;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	border: 2px solid transparent;
+	border-radius: 20px;
+}
+
+.carousel img{
+	
+}
+.Title {
+	color: #FFFFFF;
+	font-family: fantasy;
+	padding-left: 30px;
+}
